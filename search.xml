@@ -30,22 +30,4 @@
         <tag>分享</tag>
       </tags>
   </entry>
-  <entry>
-    <title></title>
-    <url>/2022/05/18/test/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<script src="https://cdn.bootcss.com/vue/2.6.10/vue.min.js"></script>
-<script>
-                  alert(Vue)
-              </script>
-</body>
-</html>]]></content>
-  </entry>
 </search>
